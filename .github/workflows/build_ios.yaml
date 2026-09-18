@@ -28,7 +28,8 @@ jobs:
       - name: Build Unity Project
         uses: game-ci/unity-builder@v4
         env:
-          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
         with:
           targetPlatform: iOS
           # WAŻNE: Wpisz tutaj dokładnie taką wersję Unity, jakiej używasz (np. 2022.3.2f1)
