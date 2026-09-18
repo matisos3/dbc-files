@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Skills_Descriptions Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: Skills_Descriptions
+  m_TableCollectionNameGuidString: f4178a43876794c4f85dfd06226542b0
+  m_Entries:
+  - m_Id: 188717760512
+    m_Key: skill.fire_arrow.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057567834112
+    m_Key: skill.cold_arrow.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1264770646016
+    m_Key: skill.chaos_arrow.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1545264726016
+    m_Key: skill.physical_arrow.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764438081536
+    m_Key: skill.lightning_arrow.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1969396940800
+    m_Key: skill.net.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170367016960
+    m_Key: skill.shotgun.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2385740333056
+    m_Key: skill.shuriken.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615240065024
+    m_Key: skill.spear.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2859365335040
+    m_Key: skill.thorns.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3017176023040
+    m_Key: skill.chaos_bomb.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3851980931072
+    m_Key: skill.devouring_cloud.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4083246465024
+    m_Key: skill.whirl_of_chaos.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4246413279232
+    m_Key: skill.corrupted_debuff.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 785835065901056
+    m_Key: skill.slime.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 842696263761920
+    m_Key: skill.blizzard.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1091759534014464
+    m_Key: skill.icespikes.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2888418590248960
+    m_Key: skill.freezingwave.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2888453520412672
+    m_Key: skill.frostnova.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2910304523046912
+    m_Key: skill.iceshot.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2980873679458304
+    m_Key: skill.breathoffire.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2980952863723520
+    m_Key: skill.flamingcircle.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996096108908544
+    m_Key: skill.searingshot.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244852082147328
+    m_Key: skill.rainoffire.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3534809145311232
+    m_Key: skill.chainlightning.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3534851650387968
+    m_Key: skill.lightningstrike.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3534893190774784
+    m_Key: skill.electricshock.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3669646535589888
+    m_Key: skill.volcanicsphere.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3670071171121152
+    m_Key: skill.energyorb.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3670346527178752
+    m_Key: skill.spinninglaser.description
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3311794533434393117
+  references:
+    version: 2
+    RefIds:
+    - rid: 3311794533434393117
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1787908509423

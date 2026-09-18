@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Skills_Upgrades_pl
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: a11d8dbccb4585244bdd803c794ff8ed, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 160464928768
+    m_Localized: "Obra\u017Cenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230895681536
+    m_Localized: "Szybko\u015B\u0107 ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277523759104
+    m_Localized: Czas odnowienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299678072832
+    m_Localized: "Zasi\u0119g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 324659347456
+    m_Localized: "Promie\u0144 wybuchu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351255429120
+    m_Localized: "Liczba pocisk\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 373602680832
+    m_Localized: "Liczba \u0142a\u0144cuch\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394200907776
+    m_Localized: "Zasi\u0119g \u0142a\u0144cucha"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421673598976
+    m_Localized: "Obra\u017Cenia \u0142a\u0144cucha"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 444331229184
+    m_Localized: "Obra\u017Cenia w czasie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 466426822656
+    m_Localized: "Czas trwania obra\u017Ce\u0144 w czasie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 486190383104
+    m_Localized: Spowolnienie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1093069511622656
+    m_Localized: Szansa na trafienie krytyczne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1093185312161792
+    m_Localized: "Obra\u017Cenia krytyczne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1093348185374720
+    m_Localized: Regeneracja zdrowia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1093516980944896
+    m_Localized: Maksymalne zdrowie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1093685847818240
+    m_Localized: "Redukcja obra\u017Ce\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1093897614032896
+    m_Localized: "Redukcja obra\u017Ce\u0144 %"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1427861134409728
+    m_Localized: "Liczba przebi\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2164896547766272
+    m_Localized: Czas spowolnienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168751549349888
+    m_Localized: Czas unieruchomienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168816804331520
+    m_Localized: "Redukcja szybko\u015Bci ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169020051914752
+    m_Localized: "Otrzymywane obra\u017Cenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169183482970112
+    m_Localized: Czas trwania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169230417231872
+    m_Localized: Maks. kumulacji
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169324042485760
+    m_Localized: "Maks. cel\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169820178317312
+    m_Localized: "Si\u0142a przyci\u0105gania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169904924229632
+    m_Localized: "Ilo\u015B\u0107 slime"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170048923074560
+    m_Localized: "Obra\u017Cenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170135606755328
+    m_Localized: "Czas zamro\u017Cenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170222353350656
+    m_Localized: "Liczba od\u0142amk\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170313206169600
+    m_Localized: "Obra\u017Cenia od\u0142amk\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170420160921600
+    m_Localized: "Szybko\u015B\u0107 od\u0142amk\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170588792913920
+    m_Localized: "Obra\u017Cenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170629142118400
+    m_Localized: "Obra\u017Cenia podpalenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170708179582976
+    m_Localized: Czas podpalenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170785358970880
+    m_Localized: "Obra\u017Cenia wybuchu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170866732662784
+    m_Localized: "Zasi\u0119g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170975583240192
+    m_Localized: Liczba kul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171047859486720
+    m_Localized: "Obra\u017Cenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171113621979136
+    m_Localized: "Czas og\u0142uszenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171202054684672
+    m_Localized: "Si\u0142a odrzutu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171325761486848
+    m_Localized: "Liczba laser\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171442761596928
+    m_Localized: "Szybko\u015B\u0107 obrot\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2185640732295168
+    m_Localized: "Szansa na og\u0142uszenie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2185711762833408
+    m_Localized: "Bonusowe obra\u017Cenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186559565889536
+    m_Localized: 'Szansa na przeskok '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2190230051651584
+    m_Localized: "Obszar dzia\u0142ania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2190652032188416
+    m_Localized: "Obszar dzia\u0142ania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2190992567730176
+    m_Localized: "Obszar dzia\u0142ania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2191026365431808
+    m_Localized: "Obszar dzia\u0142ania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2192857153961984
+    m_Localized: "Obszar dzia\u0142ania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2193031897055232
+    m_Localized: "Obszar dzia\u0142ania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2193227511005184
+    m_Localized: "Obszar dzia\u0142ania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2199440839704576
+    m_Localized: "Obszar dzia\u0142ania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2928938426073088
+    m_Localized: "Zasi\u0119g fali"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

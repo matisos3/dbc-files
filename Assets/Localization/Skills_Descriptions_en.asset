@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Skills_Descriptions_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f4178a43876794c4f85dfd06226542b0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 188717760512
+    m_Localized: Deals area damage around the target
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057567834112
+    m_Localized: Slows down the enemy hit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1264770646016
+    m_Localized: Deals damage over time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1545264726016
+    m_Localized: Deals direct physical damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764438081536
+    m_Localized: A lightning-charged arrow that chains between enemies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1969396940800
+    m_Localized: Roots the struck enemy for a duration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170367016960
+    m_Localized: Fires a spread of projectiles covering a wide area
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2385740333056
+    m_Localized: A spinning projectile that bounces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615240065024
+    m_Localized: Breaks through enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2859365335040
+    m_Localized: Reflects damage dealt to the tower back at the attacker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3017176023040
+    m_Localized: Explodes, applying damage over time. Deals damage if Chaos damage
+      over time is applied
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3851980931072
+    m_Localized: Creates an area that repeatedly damages all enemies within it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4083246465024
+    m_Localized: Pulls nearby enemies inward and repeatedly damages them
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4246413279232
+    m_Localized: Corruption twists the enemy's body, weakening it with each application
+    m_Metadata:
+      m_Items: []
+  - m_Id: 785835065901056
+    m_Localized: The turret fires a slime in a random direction. It slows the enemy
+      and deals damage over time after exiting the slime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 842696263761920
+    m_Localized: Summons a blizzard that damages enemies and slows them down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1091759534014464
+    m_Localized: A projectile that shatters into fragments on the opponent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2888418590248960
+    m_Localized: Fires a wave that freezes enemies in its path
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2888453520412672
+    m_Localized: Blast near by enemies freezing them for few seconds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2910304523046912
+    m_Localized: Fires a piercing ball that deals area damage and slows down enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2980873679458304
+    m_Localized: It breathes fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2980952863723520
+    m_Localized: Creates a ring of fire on a random enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996096108908544
+    m_Localized: Shoots a flame that sets the enemy on fire and then explodes, dealing
+      damage to nearby enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244852082147328
+    m_Localized: Summons a rain of fire that deals damage and sets enemies on fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3534809145311232
+    m_Localized: Releases a beam of lightning that jumps between enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3534851650387968
+    m_Localized: Strikes an enemy with lightning with a chance of additional hits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3534893190774784
+    m_Localized: Releases an electric particle that stuns and damages enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3669646535589888
+    m_Localized: Fires a burst at random enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3670071171121152
+    m_Localized: Launches an electric ball that pushes enemies away and deals damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3670346527178752
+    m_Localized: Lasers rotate around the tower
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

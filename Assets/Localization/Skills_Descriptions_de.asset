@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Skills_Descriptions_de
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: f4178a43876794c4f85dfd06226542b0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1545264726016
+    m_Localized: Verursacht direkten physischen Schaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764438081536
+    m_Localized: "Ein mit Blitzenergie geladener Pfeil, der zwischen Gegnern \xFCberspringt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1969396940800
+    m_Localized: "Wurzelt den getroffenen Gegner f\xFCr eine bestimmte Dauer fest"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170367016960
+    m_Localized: "Feuert eine Streuung von Geschossen ab, die einen gro\xDFen Bereich
+      abdeckt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2859365335040
+    m_Localized: "Reflektiert einen Teil des am Turm verursachten Schadens auf den
+      Angreifer zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3851980931072
+    m_Localized: "Erzeugt einen Bereich, der allen Gegnern darin wiederholt Schaden
+      zuf\xFCgt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4083246465024
+    m_Localized: Zieht nahe Gegner ins Zentrum und verursacht ihnen wiederholt Schaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4246413279232
+    m_Localized: "Verderbnis entstellt den K\xF6rper des Gegners und schw\xE4cht
+      ihn mit jeder Anwendung"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

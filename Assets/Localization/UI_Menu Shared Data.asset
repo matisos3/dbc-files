@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI_Menu Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: UI_Menu
+  m_TableCollectionNameGuidString: c912943d1204efa46b71a86470146bda
+  m_Entries:
+  - m_Id: 7687405568
+    m_Key: game_over_enemies_killed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83746914304
+    m_Key: game_over_damage_dealt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163115728896
+    m_Key: game_over_wave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84882083840000
+    m_Key: wave_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87700505133056
+    m_Key: options_language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87766800302080
+    m_Key: options_effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87854037630976
+    m_Key: options_music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87932739551232
+    m_Key: options_vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88508038676480
+    m_Key: options_gameplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88819637714944
+    m_Key: options_showcrit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89626722467840
+    m_Key: options_sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90344552431616
+    m_Key: game_over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780761018793984
+    m_Key: profile_create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780785177985024
+    m_Key: profile_edit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780824092737536
+    m_Key: profile_saving
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780846620344320
+    m_Key: profile_avatar_selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780874097229824
+    m_Key: profile_name_min
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780922017153024
+    m_Key: profile_name_max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1781168243769344
+    m_Key: profile_select_avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1781209146621952
+    m_Key: profile_name_change_used
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1781229702905856
+    m_Key: profile_level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1781251228073984
+    m_Key: profile_xp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1781280848248832
+    m_Key: profile_max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809876862140416
+    m_Key: loading_text
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1950400887544611046
+  references:
+    version: 2
+    RefIds:
+    - rid: 1950400887544611046
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1789289824515

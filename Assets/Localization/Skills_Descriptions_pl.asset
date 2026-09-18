@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Skills_Descriptions_pl
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: f4178a43876794c4f85dfd06226542b0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 188717760512
+    m_Localized: "Zadaje obra\u017Cenia obszarowe wok\xF3\u0142 celu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057567834112
+    m_Localized: Spowalnia trafionego wroga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1264770646016
+    m_Localized: "Zadaje obra\u017Cenia w czasie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1545264726016
+    m_Localized: "Zadaje bezpo\u015Brednie obra\u017Cenia fizyczne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764438081536
+    m_Localized: "Strza\u0142a na\u0142adowana b\u0142yskawic\u0105, kt\xF3ra przeskakuje
+      mi\u0119dzy wrogami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1969396940800
+    m_Localized: "Unieruchamia trafionego wroga na okre\u015Blony czas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170367016960
+    m_Localized: "Wystrzeliwuje wachlarz pocisk\xF3w pokrywaj\u0105cych szeroki obszar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2385740333056
+    m_Localized: "Wiruj\u0105cy pocisk kt\xF3ry odbija si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615240065024
+    m_Localized: "Przebija si\u0119 przez wrog\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2859365335040
+    m_Localized: "Odbija cz\u0119\u015B\u0107 obra\u017Ce\u0144 zadanych wie\u017Cy
+      z powrotem na atakuj\u0105cego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3017176023040
+    m_Localized: "Eksploduje nak\u0142adaj\u0105c obra\u017Cenia w czasie. Zadaje
+      obra\u017Cenia je\u015Bli na\u0142o\u017Cone s\u0105 obra\u017Cenia w czasie
+      typu Chaos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3851980931072
+    m_Localized: "Tworzy obszar zadaj\u0105cy obra\u017Cenia wszystkim wrogom znajduj\u0105cym
+      si\u0119 w jego zasi\u0119gu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4083246465024
+    m_Localized: "Wci\u0105ga pobliskich wrog\xF3w do \u015Brodka i zadaje im obra\u017Cenia
+      w regularnych odst\u0119pach"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4246413279232
+    m_Localized: "Spaczenie wynaturza cia\u0142o wroga, os\u0142abiaj\u0105c go z
+      ka\u017Cdym kolejnym na\u0142o\u017Ceniem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 785835065901056
+    m_Localized: "Wie\u017Ca wystrzeliwuje \u015Bluz w losowym kierunku. Spowalnia
+      wroga i zadaje obra\u017Cenia w czasie po wyj\u015Bciu ze \u015Bluzu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 842696263761920
+    m_Localized: "Przywo\u0142uje zamie\u0107 kt\xF3ra zadaje obra\u017Cenia wrogom
+      oraz spowalnia ich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1091759534014464
+    m_Localized: "Pocisk kt\xF3ry roztrzaskuje si\u0119 na przeciwniku na od\u0142amki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2888418590248960
+    m_Localized: "Wystrzela fal\u0119 kt\xF3ra zamra\u017Ca przeciwnik\xF3w na swojej
+      drodze"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2888453520412672
+    m_Localized: "Wybuch w pobliskich wrogach zamra\u017Ca ich na kilka sekund"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2910304523046912
+    m_Localized: "Wystrzeliwuje przebijaj\u0105c\u0105 kul\u0119 kt\xF3ra zadaje
+      obra\u017Cenia obszarowe oraz spowalnia wrog\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2980873679458304
+    m_Localized: Zieje ogniem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2980952863723520
+    m_Localized: "Tworzy pier\u015Bcie\u0144 ognia na losowym przeciwniku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996096108908544
+    m_Localized: "Strzela p\u0142omieniem kt\xF3ry podpala wroga a na ko\u0144cu
+      wybucha zadaj\u0105c obra\u017Cenia pobliskim wrogom"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244852082147328
+    m_Localized: "Przywo\u0142uje deszcz ognia kt\xF3ry zadaje obra\u017Cenia i podpala
+      wrog\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3534809145311232
+    m_Localized: "Wypuszcza wi\u0105zk\u0119 b\u0142yskawic kt\xF3ra przeskakuje
+      pomi\u0119dzy wrogami"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3534851650387968
+    m_Localized: "Uderza we wroga piorunem z szans\u0105 na dodatkowe uderzenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3534893190774784
+    m_Localized: "Wypuszcza elektryczn\u0105 cz\u0105stk\u0119 kt\xF3ra og\u0142usza
+      oraz rani przeciwnik\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3669646535589888
+    m_Localized: "Strzela seri\u0105 w losowych przeciwnik\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3670071171121152
+    m_Localized: "Wypuszcza elektryczn\u0105 kul\u0119 kt\xF3ra odpycha wrog\xF3w
+      i zadaje obra\u017Cenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3670346527178752
+    m_Localized: "Wok\xF3\u0142 wie\u017Cy obracaj\u0105 si\u0119 lasery"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

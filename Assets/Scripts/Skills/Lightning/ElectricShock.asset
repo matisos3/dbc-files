@@ -1,0 +1,276 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24730f63cf1146949ae86421008b9eb2, type: 3}
+  m_Name: ElectricShock
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  skillID: ElectricShock
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:ca475d1db4d170740a1ef82109e0af35
+    m_TableEntryReference:
+      m_KeyId: 3539999403573248
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:f4178a43876794c4f85dfd06226542b0
+    m_TableEntryReference:
+      m_KeyId: 3534893190774784
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  icon: {fileID: 21300000, guid: 7d61bcd5f7973594db41b2d741df97ec, type: 3}
+  cost: 20
+  costIncreasePerLevel: 9
+  projectilePrefab: {fileID: 0}
+  damage: 0
+  damageUpgrade: 0
+  fireRate: 4
+  fireRateUpgrade: 0
+  range: 8
+  rangeUpgrade: 0
+  explosionRadius: 0
+  explosionRadiusUpgrade: 0
+  projectileCount: 1
+  projectileCountGrowth: 0
+  piercingCount: 2
+  piercingCountUpgrade: 0
+  damageType: 3
+  categories: 7
+  rootDuration: 0
+  rootDurationUpgrade: 0
+  slowPercent: 0
+  slowPercentUpgrade: 0
+  slowDuration: 0
+  slowDurationUpgrade: 0
+  chainCount: 0
+  chainCountUpgrade: 0
+  chainRange: 0
+  chainRangeUpgrade: 0
+  chainDamageMultiplier: 0
+  chainDamageMultiplierUpgrade: 0
+  chainForwardAngle: 0
+  chainForwardAngleUpgrade: 0
+  chainLightningEffectPrefab: {fileID: 0}
+  chainLightningDelay: 0
+  lightningStunChance: 0
+  lightningStunDuration: 0
+  lightningBonusDamage: 0
+  lightningStunChanceUpgrade: 0
+  lightningStunDurationUpgrade: 0
+  lightningBonusDamageUpgrade: 0
+  lightningStrikeEffectPrefab: {fileID: 0}
+  lightningStrikeChance: 0
+  lightningStrikeMaxHits: 0
+  lightningStrikeDamageReduction: 0
+  lightningStrikeDelay: 0
+  lightningStrikeChanceUpgrade: 0
+  lightningStrikeMaxHitsUpgrade: 0
+  lightningStrikeDamageReductionUpgrade: 0
+  lightningStrikeDelayUpgrade: 0
+  dotDamage: 0
+  dotDamageUpgrade: 0
+  dotDuration: 0
+  dotDurationUpgrade: 0
+  dotTickInterval: 0
+  dotTickIntervalUpgrade: 0
+  shotgunProjectileCount: 0
+  projectileCountUpgrade: 0
+  spreadAngle: 0
+  spreadAngleUpgrade: 0
+  corruptedSlowPercent: 0
+  corruptedSlowPercentUpgrade: 0
+  corruptedAttackSpeedReduction: 0
+  corruptedAttackSpeedReductionUpgrade: 0
+  corruptedDamageTakenIncrease: 0
+  corruptedDamageTakenIncreaseUpgrade: 0
+  corruptedDuration: 0
+  corruptedDurationUpgrade: 0
+  corruptedMaxStacks: 0
+  corruptedMaxStacksUpgrade: 0
+  corruptedMaxTargets: 0
+  corruptedMaxTargetsUpgrade: 0
+  corruptedChainRange: 0
+  corruptedChainRangeUpgrade: 0
+  cloudEffectPrefab: {fileID: 0}
+  cloudRadius: 0
+  cloudRadiusUpgrade: 0
+  cloudDuration: 0
+  cloudDurationUpgrade: 0
+  cloudTickInterval: 0
+  cloudTickIntervalUpgrade: 0
+  whirlEffectPrefab: {fileID: 0}
+  whirlRadius: 0
+  whirlRadiusUpgrade: 0
+  whirlDuration: 0
+  whirlDurationUpgrade: 0
+  whirlTickInterval: 0
+  whirlTickIntervalUpgrade: 0
+  whirlPullSpeed: 0
+  whirlPullSpeedUpgrade: 0
+  whirlDamage: 0
+  whirlDamageUpgrade: 0
+  slimeProjectilePrefab: {fileID: 0}
+  slimeCount: 0
+  slimeRadius: 0
+  slimeRadiusUpgrade: 0
+  slimeSlowPercent: 0
+  slimeSlowPercentUpgrade: 0
+  slimeDotDamage: 0
+  slimeDotDamageUpgrade: 0
+  slimeDotDuration: 0
+  slimeDotDurationUpgrade: 0
+  slimeDotTickInterval: 0
+  slimeDotTickIntervalUpgrade: 0
+  slimeSpreadAngle: 0
+  slimeSpreadAngleUpgrade: 0
+  blizzardEffectPrefab: {fileID: 0}
+  blizzardDamage: 0
+  blizzardDamageUpgrade: 0
+  blizzardRadius: 0
+  blizzardRadiusUpgrade: 0
+  blizzardDuration: 0
+  blizzardDurationUpgrade: 0
+  blizzardTickInterval: 0
+  blizzardTickIntervalUpgrade: 0
+  blizzardSlowPercent: 0
+  blizzardSlowPercentUpgrade: 0
+  iceSpikesProjectilePrefab: {fileID: 0}
+  iceSpikeProjectilePrefab: {fileID: 0}
+  iceSpikeCount: 0
+  iceSpikeDamageMultiplier: 0
+  iceSpikeSpeed: 0
+  iceSpikeLifetime: 0
+  iceSpikeCountUpgrade: 0
+  iceSpikeDamageMultiplierUpgrade: 0
+  iceSpikeSpeedUpgrade: 0
+  iceSpikeLifetimeUpgrade: 0
+  freezingWavePrefab: {fileID: 0}
+  freezingWaveRadius: 0
+  freezingWaveSpeed: 0
+  freezingWaveDistance: 0
+  freezingWaveFreezeDuration: 0
+  freezingWaveDamage: 0
+  freezingWaveRadiusUpgrade: 0
+  freezingWaveSpeedUpgrade: 0
+  freezingWaveDistanceUpgrade: 0
+  freezingWaveFreezeDurationUpgrade: 0
+  freezingWaveDamageUpgrade: 0
+  frostNovaEffectPrefab: {fileID: 0}
+  frostNovaRadius: 0
+  frostNovaDamage: 0
+  frostNovaFreezeDuration: 0
+  frostNovaCooldown: 0
+  frostNovaRadiusUpgrade: 0
+  frostNovaDamageUpgrade: 0
+  frostNovaFreezeDurationUpgrade: 0
+  frostNovaCooldownUpgrade: 0
+  iceShotProjectilePrefab: {fileID: 0}
+  iceShotDamage: 0
+  iceShotRadius: 0
+  iceShotSlowPercent: 0
+  iceShotSlowDuration: 0
+  iceShotDamageUpgrade: 0
+  iceShotRadiusUpgrade: 0
+  iceShotSlowPercentUpgrade: 0
+  iceShotSlowDurationUpgrade: 0
+  breathOfFireEffectPrefab: {fileID: 0}
+  breathOfFireRange: 0
+  breathOfFireAngle: 0
+  breathOfFireDamage: 0
+  breathOfFireTickInterval: 0
+  breathOfFireBurnDamage: 0
+  breathOfFireBurnDuration: 0
+  breathOfFireBurnTickInterval: 0
+  breathOfFireRangeUpgrade: 0
+  breathOfFireAngleUpgrade: 0
+  breathOfFireDamageUpgrade: 0
+  breathOfFireBurnDamageUpgrade: 0
+  breathOfFireBurnDurationUpgrade: 0
+  flamingCirclePrefab: {fileID: 0}
+  flamingCircleDamage: 0
+  flamingCircleRadius: 0
+  flamingCircleDuration: 0
+  flamingCircleTickInterval: 0
+  flamingCircleDamageUpgrade: 0
+  flamingCircleRadiusUpgrade: 0
+  flamingCircleDurationUpgrade: 0
+  searingShotProjectilePrefab: {fileID: 0}
+  searingShotDamage: 0
+  searingShotBurnDamage: 0
+  searingShotBurnDuration: 0
+  searingShotBurnTickInterval: 0
+  searingShotExplosionDamage: 0
+  searingShotExplosionRadius: 0
+  searingShotDamageUpgrade: 0
+  searingShotBurnDamageUpgrade: 0
+  searingShotExplosionDamageUpgrade: 0
+  searingShotExplosionRadiusUpgrade: 0
+  rainOfFireEffectPrefab: {fileID: 0}
+  rainOfFireRadius: 0
+  rainOfFireRadiusUpgrade: 0
+  rainOfFireDuration: 0
+  rainOfFireDurationUpgrade: 0
+  rainOfFireTickInterval: 0
+  rainOfFireTickIntervalUpgrade: 0
+  rainOfFireDamage: 0
+  rainOfFireDamageUpgrade: 0
+  rainOfFireBurnDamage: 0
+  rainOfFireBurnDamageUpgrade: 0
+  rainOfFireBurnDuration: 0
+  rainOfFireBurnDurationUpgrade: 0
+  rainOfFireBurnTickInterval: 0
+  rainOfFireBurnTickIntervalUpgrade: 0
+  volcanicSphereProjectilePrefab: {fileID: 0}
+  volcanicSphereCount: 0
+  volcanicSphereDamage: 0
+  volcanicSphereSpeed: 0
+  volcanicSphereCountUpgrade: 0
+  volcanicSphereDamageUpgrade: 0
+  volcanicSphereSpeedUpgrade: 0
+  electricShockProjectilePrefab: {fileID: 7369360048470578264, guid: 3badefa7eb3009043a07d5f95788aba6, type: 3}
+  electricShockDamage: 7
+  electricShockStunDuration: 1
+  electricShockProjectileSpeed: 5
+  electricShockRadius: 1
+  electricShockDamageUpgrade: 3
+  electricShockStunDurationUpgrade: 0
+  electricShockProjectileSpeedUpgrade: 0
+  electricShockRadiusUpgrade: 0
+  energyOrbProjectilePrefab: {fileID: 0}
+  energyOrbProjectileSpeed: 0
+  energyOrbHitRadius: 0
+  energyOrbKnockback: 0
+  energyOrbProjectileSpeedUpgrade: 0
+  energyOrbHitRadiusUpgrade: 0
+  energyOrbKnockbackUpgrade: 0
+  spinningLaserPrefab: {fileID: 0}
+  spinningLaserCount: 0
+  spinningLaserRadius: 0
+  spinningLaserRotationSpeed: 0
+  spinningLaserDamage: 0
+  spinningLaserDamageInterval: 0
+  spinningLaserWidth: 0
+  spinningLaserCountUpgrade: 0
+  spinningLaserRadiusUpgrade: 0
+  spinningLaserRotationSpeedUpgrade: 0
+  spinningLaserDamageUpgrade: 0
+  spinningLaserDamageIntervalUpgrade: 0
+  spinningLaserWidthUpgrade: 0
+  hitEffectPrefab: {fileID: 0}
+  explosionEffectPrefab: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []

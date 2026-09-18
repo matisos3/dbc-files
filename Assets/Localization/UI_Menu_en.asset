@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Menu_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c912943d1204efa46b71a86470146bda, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7687405568
+    m_Localized: Enemies defeated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83746914304
+    m_Localized: Damage dealt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163115728896
+    m_Localized: Conquered Waves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84882083840000
+    m_Localized: Wave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87700505133056
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87766800302080
+    m_Localized: Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87854037630976
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87932739551232
+    m_Localized: Vibrations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88508038676480
+    m_Localized: Gameplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88819637714944
+    m_Localized: Show Critical Hit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89626722467840
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90344552431616
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1781280848248832
+    m_Localized: MAX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1781251228073984
+    m_Localized: '{0} / {1} XP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1781229702905856
+    m_Localized: Level {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1781209146621952
+    m_Localized: The profile name can be changed only once.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1781168243769344
+    m_Localized: Choose avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780922017153024
+    m_Localized: The name can have a maximum of 25 characters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780874097229824
+    m_Localized: The name must be at least 3 characters long.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780846620344320
+    m_Localized: Avatar selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780824092737536
+    m_Localized: Saving profile...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780785177985024
+    m_Localized: Edit your profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780761018793984
+    m_Localized: Create your profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809876862140416
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,42 @@
+name: Build Unity iOS
+
+on:
+  push:
+    branches:
+      - main # Zmień na 'master', jeśli tak nazywa się Twoja główna gałąź
+
+jobs:
+  build:
+    name: Build dla iOS w chmurze
+    runs-on: macos-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Free Disk Space
+        uses: jlumbroso/free-disk-space@main
+        with:
+          tool-cache: false
+          android: true
+          dotnet: false
+          haskell: false
+          large-packages: false
+          docker: false
+
+      - name: Build Unity Project
+        uses: game-ci/unity-builder@v4
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+        with:
+          targetPlatform: iOS
+          # WAŻNE: Wpisz tutaj dokładnie taką wersję Unity, jakiej używasz (np. 2022.3.2f1)
+          unityVersion: 6000.5.3f1 
+          customMethod: iOSBuilder.BuildiOS
+
+      - name: Upload iOS Build Output
+        uses: actions/upload-artifact@v4
+        with:
+          name: iOS-Project
+          path: build/iOS
